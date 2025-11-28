@@ -1,0 +1,5 @@
+venv/
+images/
+.vscode/
+artifacts_scratch/
+artifacts_transfer/
